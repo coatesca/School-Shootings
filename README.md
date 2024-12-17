@@ -10,7 +10,7 @@ The analysis aims to answer the following questions:
 
 - Have the rate of school shootings increased in the last two decades? 
   
-- What factors contribute to the prevalance of school shootings? 
+- What factors contribute to the prevalence of school shootings? 
  
 - What is the profile of the average school shooter?
 
